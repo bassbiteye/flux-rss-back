@@ -28,6 +28,6 @@ https://github.com/bassbiteye/flux-rss-front
 Taper  `ng serve` dans un terminal pour demarrer puis naviger via  `http://localhost:4200/`. 
 Pour la partie Back J'ai  utilisé du springboot,donc c'est elle qui recupére le fichier xml https://www.lemonde.fr/rss/en_continu.xml ensuite elle fait le traitement pour pouvoir retourner un api rest  qui est utilisé dans la partie front 
 
-pour lancer springboot il faut taper 
+## pour lancer springboot il faut taper 
  mvnw spring-boot:run
 Backend https://github.com/bassbiteye/flux-rss-back
